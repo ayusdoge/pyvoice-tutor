@@ -13,7 +13,7 @@
 [![Wispr Flow](https://img.shields.io/badge/Voice--First-Wispr%20Flow-8b5cf6.svg)](https://wisprflow.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 Live Demo](http://localhost:5173) • [🎬 Video Demo Guide](#-demo-video-guide-2-minutes) • [Hackathon Details](#-built-for-wemakedevs--wispr-flow-challenge)
+[🚀 Live Demo]([http://localhost:5173](https://pyvoice-tutor.vercel.app) • [🎬 Video Demo Guide](#-demo-video-guide-2-minutes) • [Hackathon Details](https://www.wemakedevs.org/wispr)
 
 </div>
 
