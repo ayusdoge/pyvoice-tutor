@@ -83,24 +83,6 @@ The app works 100% offline using its built-in intelligent synthesizer. If you wi
 
 ---
 
-## 🌐 1-Click Deployment
-
-### Deploy to Vercel
-```bash
-npx vercel
-```
-*Or import your GitHub repo directly into Vercel — a pre-configured `vercel.json` is included!*
-
-### Deploy to Netlify
-```bash
-npx netlify deploy --prod
-```
-*A pre-configured `netlify.toml` is included.*
-
-### Deploy to GitHub Pages
-A pre-configured GitHub Actions workflow (`.github/workflows/deploy.yml`) is included. Simply go to **Settings ➔ Pages ➔ Source: GitHub Actions** in your GitHub repository!
-
----
 
 ## Demo Video Guide (< 2 Minutes)
 
