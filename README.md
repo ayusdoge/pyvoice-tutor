@@ -63,26 +63,6 @@ With **Wispr Flow**, learners simply **speak their logic naturally**—even in c
 
 ---
 
-## Instant Quickstart for Hackathon Judges (0 Setup Required)
-
-Judges can test the entire app **instantly without needing an API key or signing in**:
-
-```bash
-# 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/pyvoice-tutor.git
-cd pyvoice-tutor
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-```
-
-Open `http://localhost:5173` in your browser. All presets, Duolingo levels, and WebAssembly execution work out-of-the-box!
-
----
-
 ## Adding an API Key (Optional Live AI Mode)
 
 The app works 100% offline using its built-in intelligent synthesizer. If you wish to synthesize completely arbitrary custom voice prompts with live AI:
