@@ -84,18 +84,6 @@ The app works 100% offline using its built-in intelligent synthesizer. If you wi
 ---
 
 
-## Demo Video Guide (< 2 Minutes)
-
-| Timestamp | Screen Action | Voiceover / Script |
-| :--- | :--- | :--- |
-| **0:00 - 0:20** | Show PyVoice Tutor mobile app open. Point to streak, XP, and Wispr Flow badge. | *"Hey everyone, this is PyVoice Tutor, a voice-first Python learning app built for the WeMakeDevs Wispr Challenge. Translating mental logic into Python syntax is hard for beginners, so we made it voice-first."* |
-| **0:20 - 0:50** | Open **Wispr Voice Studio**. Hold Wispr key / tap mic and speak: *"bhai, mere ko ek Python ka program banana hai ki prime numbers kaise find karein"* | *"Notice how seamlessly my spoken Hinglish was captured. Now I click 'Generate Python & Explain'..."* |
-| **0:50 - 1:20** | Switch to **Code Lab**. Show the code, click lines to view the breakdown. Tap **"Listen to Explanation"** to hear Priya/Rohan speak. | *"PyVoice writes idiomatic Python and breaks it down line-by-line in both English and Hinglish. Our natural voice models pronounce tricky symbols like square roots and modulo clearly."* |
-| **1:20 - 1:45** | Switch to **PyDuo Quest**. Show the Duolingo skill tree, mascot speech bubble, logic blocks, and tap **"Check Answer"** to hear the celebration chime! | *"We even built PyDuo Quest, the Duolingo of Python with a skill tree, streak counter, and push-to-talk voice challenges!"* |
-| **1:45 - 2:00** | Click **Run in Browser** (executes in 14ms in WebAssembly), flash your Wispr Flow Insights desktop card, and wrap up! | *"Runs live in WebAssembly with zero servers. 100% built with voice. Thank you WeMakeDevs and Wispr!"* |
-
----
-
 ## Built for WeMakeDevs × Wispr Flow Challenge
 
 - **Track**: Builders Track
